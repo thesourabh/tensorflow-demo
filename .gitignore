@@ -1,0 +1,12 @@
+lib64
+bin
+include
+lib
+pip-selfcheck.json
+MNIST_data
+model
+share
+server_reference.py
+train_reference.py
+*.pyc
+*.png
